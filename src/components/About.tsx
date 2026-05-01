@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I am a Second Year student pursuing Computer Science Engineering with a specialization in Artificial Intelligence at Vishwakarma Institute of Technology, Pune. I am passionate about app development, frontend development, data analysis, and building AI-powered solutions.
         </p>
       </div>
     </div>
